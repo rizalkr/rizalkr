@@ -19,7 +19,7 @@
 
 ---
 
-### ⚡ Engineering Focus
+### Engineering Focus
 
 * **Full-Stack Development:** Designing and building end-to-end web applications and B2B systems using the TypeScript (Next.js, React, Node.js) and Python (FastAPI) ecosystems.
 * **Data Analytics & Machine Learning:** Processing large-scale datasets for Business Intelligence, predictive modeling, recommendation systems, and anomaly detection.
@@ -27,7 +27,7 @@
 * **Ask me about:** Web Architecture, RESTful APIs, Relational Databases, Predictive Modeling, and B2B Digital Transformation.
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Languages**
 <p>
@@ -70,7 +70,7 @@
 
 ---
 
-### 📊 GitHub Telemetry
+### GitHub Telemetry
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rizalkr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
