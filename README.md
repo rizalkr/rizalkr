@@ -21,11 +21,10 @@
 
 ### ⚡ Engineering Focus
 
-* **Full-Stack Development:** Merancang dan membangun aplikasi web end-to-end serta sistem B2B menggunakan ekosistem TypeScript (Next.js, React, Node.js) dan Python (FastAPI).
-* **Data Analytics & Machine Learning:** Mengolah dataset skala besar untuk Business Intelligence, pemodelan prediktif, sistem rekomendasi, dan deteksi anomali.
-* **System Architecture & IoT:** Mengembangkan layanan berbasis mikroservis, pengelolaan basis data relasional, serta integrasi perangkat keras mikrokontroler (ESP32/ESP8266).
-* **Ask me about:** Web Architecture, RESTful APIs, Relational Databases, Predictive Modeling, dan B2B Digital Transformation.
-
+* **Full-Stack Development:** Designing and building end-to-end web applications and B2B systems using the TypeScript (Next.js, React, Node.js) and Python (FastAPI) ecosystems.
+* **Data Analytics & Machine Learning:** Processing large-scale datasets for Business Intelligence, predictive modeling, recommendation systems, and anomaly detection.
+* **System Architecture & IoT:** Developing microservices, managing relational databases, and integrating microcontroller hardware (ESP32/ESP8266).
+* **Ask me about:** Web Architecture, RESTful APIs, Relational Databases, Predictive Modeling, and B2B Digital Transformation.
 ---
 
 ### 🛠 Tech Stack
